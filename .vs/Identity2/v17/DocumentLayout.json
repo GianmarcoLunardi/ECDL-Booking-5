@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\regia_stelling\\source\\repos\\ECDL-Booking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF2DD56E-0A97-47D7-A8DE-BA279B0A3C67}|Identity2.csproj|c:\\users\\regia_stelling\\source\\repos\\ecdl-booking\\migrations\\applicationdb\\20250112201334_add_table_exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF2DD56E-0A97-47D7-A8DE-BA279B0A3C67}|Identity2.csproj|solutionrelative:migrations\\applicationdb\\20250112201334_add_table_exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF2DD56E-0A97-47D7-A8DE-BA279B0A3C67}|Identity2.csproj|c:\\users\\regia_stelling\\source\\repos\\ecdl-booking\\migrations\\20241216182121_exam_aad_col_bookable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF2DD56E-0A97-47D7-A8DE-BA279B0A3C67}|Identity2.csproj|solutionrelative:migrations\\20241216182121_exam_aad_col_bookable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF2DD56E-0A97-47D7-A8DE-BA279B0A3C67}|Identity2.csproj|c:\\users\\regia_stelling\\source\\repos\\ecdl-booking\\areas\\admin\\views\\exam\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF2DD56E-0A97-47D7-A8DE-BA279B0A3C67}|Identity2.csproj|solutionrelative:areas\\admin\\views\\exam\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,36 +18,20 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250112201334_Add_Table_Exam.cs",
-              "DocumentMoniker": "C:\\Users\\regia_stelling\\source\\repos\\ECDL-Booking\\Migrations\\ApplicationDb\\20250112201334_Add_Table_Exam.cs",
-              "RelativeDocumentMoniker": "Migrations\\ApplicationDb\\20250112201334_Add_Table_Exam.cs",
-              "ToolTip": "C:\\Users\\regia_stelling\\source\\repos\\ECDL-Booking\\Migrations\\ApplicationDb\\20250112201334_Add_Table_Exam.cs",
-              "RelativeToolTip": "Migrations\\ApplicationDb\\20250112201334_Add_Table_Exam.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T11:31:41.286Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\regia_stelling\\source\\repos\\ECDL-Booking\\Areas\\Admin\\Views\\Exam\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Exam\\Create.cshtml",
+              "ToolTip": "C:\\Users\\regia_stelling\\source\\repos\\ECDL-Booking\\Areas\\Admin\\Views\\Exam\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Exam\\Create.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T19:19:53.791Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20241216182121_Exam_aad_Col_Bookable.cs",
-              "DocumentMoniker": "C:\\Users\\regia_stelling\\source\\repos\\ECDL-Booking\\Migrations\\20241216182121_Exam_aad_Col_Bookable.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241216182121_Exam_aad_Col_Bookable.cs",
-              "ToolTip": "C:\\Users\\regia_stelling\\source\\repos\\ECDL-Booking\\Migrations\\20241216182121_Exam_aad_Col_Bookable.cs",
-              "RelativeToolTip": "Migrations\\20241216182121_Exam_aad_Col_Bookable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T10:04:48.766Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
