@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    @model Task<IEnumerable<Identity2.Models.Exam>>;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Pagina Benvenuto</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="container">
+
+
+    @if (@Model != null)
+    {
+
+
+        <table class="table table-striped table-hover">
+            <thead>
+                <tr>
+                    <th scope="col">Data</th>
+                    <th scope="col">Ora Inizio</th>
+                    <th scope="col">Luogo</th>
+                    <th scope="col">Esaminatore</th>
+                    <th scope="col">  </th>
+
+            </thead>
+            <tbody>
+                <!--     sperimentazione     -->
+                @foreach (var i in await @Model)
+                {
+                    <tr>
+                        <th scope="col">@i.Date</th>
+                        <th scope="col">@i.Date.Date.TimeOfDay<th>
+                        <th scope="col>Luogo</th>
+                        <th scope="col">Esaminatore</th>
+                        <th scope="col">
+                            <a type="button" class="btn btn-primary" asp-route="Querry">Prenota</a>
+<th>
+                    </tr>
+
+                }
+
+
+            </tbody>
+        </table>
+
+    }
+</div>
+
+
+
+
+

@@ -1,0 +1,56 @@
+﻿@{
+    ViewData["Title"] = "Pagina Utenti";
+    @model IEnumerable<Identity2.Models.ApplicationUser>;
+}
+
+@using Identity2;
+@using System.Linq;
+
+<p class="alert-light"> Utenti </p>
+
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">Username</th>
+            <th scope="col">Nome Cognome</th>
+            <th scope="col">Città</th>
+            <th scope="col">Scuola</th>
+            <th scope="col">Handle</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var x in @Model)
+        {
+        <tr>
+            <td>
+
+                    <a asp-action="User"
+                       asp-controller="Users"
+                       asp-route-id="@x.Id">
+                        @x.UserName
+                    </a>
+                
+                
+            
+            
+            
+            </td>
+            <td>
+                    @x.Name @x.Surname
+
+            </td>
+            <td>@x.City</td>
+            <td>x.School.Name</td>
+            <td>Pulsenti</td>
+        </tr>
+        }
+        </tbody>
+
+
+</table>
+    
+
+
+
