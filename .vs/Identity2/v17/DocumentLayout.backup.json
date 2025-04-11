@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\regia_stelling\\source\\repos\\ECDL-Booking\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EF2DD56E-0A97-47D7-A8DE-BA279B0A3C67}|Identity2.csproj|c:\\users\\regia_stelling\\source\\repos\\ecdl-booking\\profiles\\mappermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2DD56E-0A97-47D7-A8DE-BA279B0A3C67}|Identity2.csproj|solutionrelative:profiles\\mappermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2DD56E-0A97-47D7-A8DE-BA279B0A3C67}|Identity2.csproj|c:\\users\\regia_stelling\\source\\repos\\ecdl-booking\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2DD56E-0A97-47D7-A8DE-BA279B0A3C67}|Identity2.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2DD56E-0A97-47D7-A8DE-BA279B0A3C67}|Identity2.csproj|c:\\users\\regia_stelling\\source\\repos\\ecdl-booking\\viewmodel\\admin_exam_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2DD56E-0A97-47D7-A8DE-BA279B0A3C67}|Identity2.csproj|solutionrelative:viewmodel\\admin_exam_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2DD56E-0A97-47D7-A8DE-BA279B0A3C67}|Identity2.csproj|c:\\users\\regia_stelling\\source\\repos\\ecdl-booking\\areas\\admin\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2DD56E-0A97-47D7-A8DE-BA279B0A3C67}|Identity2.csproj|solutionrelative:areas\\admin\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EF2DD56E-0A97-47D7-A8DE-BA279B0A3C67}|Identity2.csproj|c:\\users\\regia_stelling\\source\\repos\\ecdl-booking\\areas\\admin\\views\\exam\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EF2DD56E-0A97-47D7-A8DE-BA279B0A3C67}|Identity2.csproj|solutionrelative:areas\\admin\\views\\exam\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -14,24 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\regia_stelling\\source\\repos\\ECDL-Booking\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\regia_stelling\\source\\repos\\ECDL-Booking\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:38:27.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExamController.cs",
+              "DocumentMoniker": "C:\\Users\\regia_stelling\\source\\repos\\ECDL-Booking\\Areas\\Admin\\Controllers\\ExamController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ExamController.cs",
+              "ToolTip": "C:\\Users\\regia_stelling\\source\\repos\\ECDL-Booking\\Areas\\Admin\\Controllers\\ExamController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ExamController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:54:07.787Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MapperModel.cs",
+              "DocumentMoniker": "C:\\Users\\regia_stelling\\source\\repos\\ECDL-Booking\\Profiles\\MapperModel.cs",
+              "RelativeDocumentMoniker": "Profiles\\MapperModel.cs",
+              "ToolTip": "C:\\Users\\regia_stelling\\source\\repos\\ECDL-Booking\\Profiles\\MapperModel.cs*",
+              "RelativeToolTip": "Profiles\\MapperModel.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:49:09.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin_Exam_Create.cs",
+              "DocumentMoniker": "C:\\Users\\regia_stelling\\source\\repos\\ECDL-Booking\\ViewModel\\Admin_Exam_Create.cs",
+              "RelativeDocumentMoniker": "ViewModel\\Admin_Exam_Create.cs",
+              "ToolTip": "C:\\Users\\regia_stelling\\source\\repos\\ECDL-Booking\\ViewModel\\Admin_Exam_Create.cs",
+              "RelativeToolTip": "ViewModel\\Admin_Exam_Create.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:47:51.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\regia_stelling\\source\\repos\\ECDL-Booking\\Areas\\Admin\\Views\\Exam\\Create.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Exam\\Create.cshtml",
               "ToolTip": "C:\\Users\\regia_stelling\\source\\repos\\ECDL-Booking\\Areas\\Admin\\Views\\Exam\\Create.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Exam\\Create.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAFEAAABeAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-10T19:19:53.791Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
